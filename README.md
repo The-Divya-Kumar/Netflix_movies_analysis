@@ -1,6 +1,6 @@
 ## **Case Background:** 
 
-https://github.com/The-Divya-Kumar/Netflix_movies_analysis/blob/main/Netflix_data_analysis.png
+![Dashboard Screenshot](https://github.com/The-Divya-Kumar/Netflix_movies_analysis/blob/main/Netflix_data_analysis.png)
 
 Netflix is known for its work in data science, AI, and ML, particularly for building strong recommendation models and algorithms that understand customer behavior and patterns. Suppose you are working in a data-driven job role, and you have a dataset of more than 9,000 movies. You need to solve the following questions to help the company make informed business decisions accordingly.
 
