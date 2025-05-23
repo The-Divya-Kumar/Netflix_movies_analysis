@@ -1,8 +1,8 @@
 ## **Case Background:** 
 
-![Dashboard Screenshot](https://github.com/The-Divya-Kumar/Netflix_movies_analysis/blob/main/Netflix_data_analysis.png)
-
 Netflix is known for its work in data science, AI, and ML, particularly for building strong recommendation models and algorithms that understand customer behavior and patterns. Suppose you are working in a data-driven job role, and you have a dataset of more than 9,000 movies. You need to solve the following questions to help the company make informed business decisions accordingly.
+
+## **Tech Stack: Python, PowerBI** 
 
 ## **Exploratory Data Analysis using the guiding questions:** 
 1. What is the most frequent genre of movies released on Netflix?
@@ -17,6 +17,8 @@ Netflix is known for its work in data science, AI, and ML, particularly for buil
 3. Spiderman-no way home has the highest popularity rate with the genres action, science fiction and adventure
 4. The United States vs. Billie Holiday, and Threads were least popular, with the genres Music, Drama, History, War, Science Fiction
 5. The year 2021 has the most filmed movies
+
+![Dashboard Screenshot](https://github.com/The-Divya-Kumar/Netflix_movies_analysis/blob/main/Netflix_data_analysis.png)
 
 ## **Learnings:** 
 1. Always save the dataset into a different dataframe to be able to compare dataframes
