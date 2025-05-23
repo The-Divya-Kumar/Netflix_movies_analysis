@@ -25,3 +25,6 @@ Netflix is known for its work in data science, AI, and ML, particularly for buil
 1. Always save the dataset into a different dataframe to be able to compare dataframes
 2. Make your own conclusions, check and recheck assumptions
 
+
+
+_Inspired by: https://github.com/TheiScale/YouTube-Video-Notes/tree/main/New%20Netflix%20Data%20Analysis%20Project%202025_
