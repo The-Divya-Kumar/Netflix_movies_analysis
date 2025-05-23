@@ -4,6 +4,8 @@ Netflix is known for its work in data science, AI, and ML, particularly for buil
 
 ## **Tech Stack: Python, PowerBI** 
 
+  ![Dashboard Screenshot](https://github.com/The-Divya-Kumar/Netflix_movies_analysis/blob/main/Netflix_data_analysis.png)
+
 ## **Exploratory Data Analysis using the guiding questions:** 
 1. What is the most frequent genre of movies released on Netflix?
 2. Which has highest votes in vote avg column?
@@ -18,7 +20,6 @@ Netflix is known for its work in data science, AI, and ML, particularly for buil
 4. The United States vs. Billie Holiday, and Threads were least popular, with the genres Music, Drama, History, War, Science Fiction
 5. The year 2021 has the most filmed movies
 
-![Dashboard Screenshot](https://github.com/The-Divya-Kumar/Netflix_movies_analysis/blob/main/Netflix_data_analysis.png)
 
 ## **Learnings:** 
 1. Always save the dataset into a different dataframe to be able to compare dataframes
